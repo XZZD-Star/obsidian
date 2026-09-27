@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常学习/2026-09-27 Test.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-27 Test"
+              "title": "2026-09-27 Obsidian快速上手"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常学习/2026-09-27 Test.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常学习/2026-09-27 Test.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常学习/2026-09-27 Test.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,15 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f4ef3cefa5873eb",
+  "active": "c088de7059c7521f",
   "lastOpenFiles": [
+    "日常学习/2026-09-27 Test.md",
     "日常学习/assets/2026-09-27 Test",
     "日常学习/assets/2026-09-27 Test/file-20260927155506971.png",
     "日常学习/assets/2026-09-27 Test/file-20260927155506825.png",
     "assets/2026-09-27 Test",
     "assets",
     "日常学习/2026-09-27 Obsidian快速上手.md",
-    "日常学习/2026-09-27 Test.md",
     "日常学习/2026-09-27 1.md",
     "日常学习/assets/2026-09-27 1",
     "日常学习/assets",
@@ -211,7 +211,6 @@
     "assets 1/未命名",
     "assets/2026-09-27/file-20260927133702637.png",
     "assets/2026-09-27",
-    "Test/assets/2026-09-27 222",
     "Test/assets/2026-09-27 222/file-20260927133432828.png",
     "2026-09-27 1.md",
     "assets/2026-09-27 1/file-20260927133149627.png",
