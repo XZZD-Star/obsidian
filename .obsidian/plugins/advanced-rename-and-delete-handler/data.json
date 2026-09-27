@@ -6,9 +6,9 @@
   "rescueAttachmentUsedByMultipleNotesMode": "prompt",
   "shouldDeleteConflictingAttachments": false,
   "shouldHandleDeletions": false,
-  "shouldHandleRenames": true,
-  "shouldRenameAttachmentFiles": false,
-  "shouldRenameAttachmentFolder": false,
+  "shouldHandleRenames": false,
+  "shouldRenameAttachmentFiles": true,
+  "shouldRenameAttachmentFolder": true,
   "shouldRescueSharedAttachments": false,
   "shouldUpdateFileNameAliases": true,
   "treatAsAttachmentExtensions": [
