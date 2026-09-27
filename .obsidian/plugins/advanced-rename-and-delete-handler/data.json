@@ -1,5 +1,5 @@
 {
-  "emptyFolderBehavior": "Keep",
+  "emptyFolderBehavior": "Delete",
   "excludePaths": [],
   "includePaths": [],
   "notePriorities": [],
