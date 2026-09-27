@@ -3,5 +3,5 @@
   "newFileLocation": "root",
   "newLinkFormat": "relative",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false
 }
