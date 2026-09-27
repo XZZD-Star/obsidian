@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/2026-09-27 222.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-27 222"
+              "title": "2026-09-27 Obsidian快速上手"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/2026-09-27 222.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/2026-09-27 222.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/2026-09-27 222.md",
+                "file": "日常学习/2026-09-27 Obsidian快速上手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,36 +189,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f4ef3cefa5873eb",
+  "active": "c088de7059c7521f",
   "lastOpenFiles": [
-    "未命名.md",
+    "日常学习/2026-09-27 1.md",
+    "日常学习/2026-09-27 Obsidian快速上手.md",
+    "日常学习/assets/2026-09-27 1",
+    "日常学习/assets",
+    "日常学习/assets/2026-09-27 1/file-20260927134219257.png",
+    "日常学习/未命名.md",
+    "未命名 1",
+    "日常学习",
+    "Test/2026-09-27 222.md",
+    "日常学习",
     "assets/未命名/file-20260927133738027.png",
     "assets/未命名",
-    "Test/2026-09-27 222.md",
-    "2026-09-27.md",
     "assets/2026-09-27/file-20260927133702637.png",
     "assets/2026-09-27",
     "Test/assets/2026-09-27 222",
     "Test/assets/2026-09-27 22",
     "Test/assets",
-    "Test",
     "Test/assets/2026-09-27 222/file-20260927133432828.png",
-    "assets/2026-09-27 22",
-    "assets",
     "2026-09-27 1.md",
-    "assets/2026-09-27 1",
     "assets/2026-09-27 1/file-20260927133149627.png",
     "file-20260927133123696.png",
     "Pasted image 20260927132250.png",
     "2026-09-27 Obsidian快速上手教程.md",
     "1/2026-09-272.md",
-    "1/assets/2026-09-272",
     "1/assets/2026-09-272/file-20260927132134027.png",
     "1/2026-09-27 1.md",
     "1/assets/2026-09-27 1/file-20260927131951725.png",
     "日常学习/2026-09-27 Test1.md",
     "日常学习/assets/2026-09-27 Test1/file-20260927131309133.png",
-    "日常学习/assets/2026-09-27 Test/file-20260927130918873.png",
     "2026-09-27 111.md",
     "Test11122.md"
   ]
