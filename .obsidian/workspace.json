@@ -11,12 +11,14 @@
             "id": "c088de7059c7521f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Test/file-20260927125404244.png"
+                "file": "Test1112.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20260927125404244"
+              "icon": "lucide-file",
+              "title": "Test1112"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Test/file-20260927125404244.png",
+                "file": "Test1112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Test/file-20260927125404244.png",
+                "file": "Test1112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Test/file-20260927125404244.png",
+                "file": "Test1112.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,10 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f4ef3cefa5873eb",
+  "active": "c088de7059c7521f",
   "lastOpenFiles": [
-    "Test1112.md",
+    "assets/Test1112/file-20260927125736419.png",
+    "assets/Test1112",
     "assets/Test/file-20260927125404244.png",
+    "Test1112.md",
     "file-20260927124301990.png",
     "assets/Test",
     "assets",
