@@ -26,7 +26,7 @@
   "renameAttachmentsCreatedByOtherPluginsMode": "None",
   "renamedAttachmentFileName": "",
   "shouldCollectAttachmentsAutomatically": false,
-  "shouldFollowObsidianAttachmentLocation": true,
+  "shouldFollowObsidianAttachmentLocation": false,
   "shouldPreserveImageMetadata": false,
   "shouldRenameCollectedAttachments": false,
   "shouldSetLinkDisplayTextToAttachmentFileName": false,
