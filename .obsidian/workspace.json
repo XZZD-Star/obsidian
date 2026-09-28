@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法学习/2026-09-27 二分法1.md",
+                "file": "2026-09-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-27 二分法1"
+              "title": "2026-09-28"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法学习/2026-09-27 二分法1.md",
+                "file": "2026-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法学习/2026-09-27 二分法1.md",
+                "file": "2026-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法学习/2026-09-27 二分法1.md",
+                "file": "2026-09-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +191,11 @@
   },
   "active": "c088de7059c7521f",
   "lastOpenFiles": [
-    "日常学习/2026-09-27 Obsidian快速上手.md",
+    "assets/2026-09-28/file-20260928145107188.png",
+    "assets/2026-09-28",
     "算法学习/2026-09-27 二分法1.md",
+    "2026-09-28.md",
+    "日常学习/2026-09-27 Obsidian快速上手.md",
     "算法学习",
     "日常学习/assets/2026-09-27 Obsidian快速上手/file-20260927161656317.png",
     "日常学习/assets/2026-09-27 Obsidian快速上手/file-20260927161606366.png",
@@ -211,7 +214,6 @@
     "未命名 1",
     "日常学习",
     "Test/2026-09-27 222.md",
-    "日常学习",
     "assets/未命名/file-20260927133738027.png",
     "assets/2026-09-27/file-20260927133702637.png",
     "Test/assets/2026-09-27 222/file-20260927133432828.png",
