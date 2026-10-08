@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
+                "file": "2026-10-08 VPS节点搭建之CDN加速.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DediRock VPS SSH 无法连接问题排查与解决交接文档"
+              "title": "2026-10-08 VPS节点搭建之CDN加速"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
+                "file": "2026-10-08 VPS节点搭建之CDN加速.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +191,9 @@
   },
   "active": "c088de7059c7521f",
   "lastOpenFiles": [
-    "2026-10-04 VPS科普个人笔记.md",
     "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
+    "2026-10-08 VPS节点搭建之CDN加速.md",
+    "2026-10-04 VPS科普个人笔记.md",
     "2026-10-04 VPS科普.md",
     "2026-10-04 KVM VPS代理搭建完整教程.md",
     "2026-09-28.md",
