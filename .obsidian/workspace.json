@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-09 CloudFlare ImgBed项目概览.md",
+                "file": "2026-10-09 Cloudflare ImgBed图床项目搭建全流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-09 CloudFlare ImgBed项目概览"
+              "title": "2026-10-09 Cloudflare ImgBed图床项目搭建全流程"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-09 CloudFlare ImgBed项目概览.md",
+                "file": "2026-10-09 Cloudflare ImgBed图床项目搭建全流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,19 +191,20 @@
   },
   "active": "c088de7059c7521f",
   "lastOpenFiles": [
-    "日常学习/2026-09-27 Obsidian快速上手.md",
     "2026-10-09 CloudFlare ImgBed项目概览.md",
+    "2026-10-09 Cloudflare ImgBed图床项目搭建全流程.md",
+    "2026-10-09 VPS搭建节点如何挑选问题.md",
+    "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
+    "2026-10-09 DediRock VPS机器配置信息.md",
+    "日常学习/2026-09-27 Obsidian快速上手.md",
     "2026-09-28.md",
     "2026-10-04 VPS科普.md",
     "assets/2026-10-04 VPS科普/file-20261009085527361.png",
     "assets/2026-10-04 VPS科普",
     "2026-10-09  VPS搭建个人总结流程.md",
-    "2026-10-09 DediRock VPS机器配置信息.md",
     "2026-10-08 VPS节点搭建之CDN加速.md",
     "2026-10-08 VPS节点搭建之优选IP.md",
-    "2026-10-09 VPS搭建节点如何挑选问题.md",
     "2026-10-04 GPT KVM VPS代理搭建完整教程.md",
-    "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
     "日常学习/2026-09-30 嵌入式就业方向与核心技术栈.md",
     "2026-10-04 VPS科普个人笔记.md",
     "assets/2026-09-28/file-20260928145107188.png",
