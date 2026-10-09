@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-10 修复bedimg图床思路.md",
+                "file": "Cloudflare_ImgBed_Telegram_搭建交接文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-10 修复bedimg图床思路"
+              "title": "Cloudflare_ImgBed_Telegram_搭建交接文档"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-10 修复bedimg图床思路.md",
+                "file": "Cloudflare_ImgBed_Telegram_搭建交接文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,11 +191,12 @@
   },
   "active": "c088de7059c7521f",
   "lastOpenFiles": [
-    "2026-10-09 Cloudflare ImgBed图床项目搭建全流程.md",
+    "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
     "2026-10-10 修复bedimg图床思路.md",
+    "Cloudflare_ImgBed_Telegram_搭建交接文档.md",
+    "2026-10-09 Cloudflare ImgBed图床项目搭建全流程.md",
     "2026-10-09 CloudFlare ImgBed项目概览.md",
     "2026-10-09 VPS搭建节点如何挑选问题.md",
-    "DediRock VPS SSH 无法连接问题排查与解决交接文档.md",
     "2026-10-09 DediRock VPS机器配置信息.md",
     "日常学习/2026-09-27 Obsidian快速上手.md",
     "2026-09-28.md",
@@ -235,7 +236,6 @@
     "2026-09-27 Obsidian快速上手教程.md",
     "1/2026-09-272.md",
     "1/2026-09-27 1.md",
-    "日常学习/2026-09-27 Test1.md",
-    "2026-09-27 111.md"
+    "日常学习/2026-09-27 Test1.md"
   ]
 }
